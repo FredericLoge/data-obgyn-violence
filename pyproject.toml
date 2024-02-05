@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "stop-vog"
+version = "0.1.0"
+description = "Stopping OBGYN violence"
+authors = ["FredericLoge <frederic.logemunerel@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+instaloader = "^4.10.3"
+pandas = "^2.2.0"
+psycopg2-binary = "^2.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
