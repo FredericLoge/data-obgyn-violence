@@ -1,7 +1,7 @@
-0,1,2,3,4
-3,,,C.H.U. d'Angers,https://g.co/kgs/NUzpcF2
-2,,,"Clinique de l'Anjou, Angers",https://g.co/kgs/2HSMwhe
-1,,,"Hopital Prive d'Antony, Ramsay Santé",https://g.co/kgs/zjBGZ32
-4,,,"Hopital Tenon, Paris 20e",https://g.co/kgs/hWAZDqw
-5,,,"Centre Hospitalier, Le Mans",https://g.co/kgs/sbsnaCY
+id,latitude,longitude,name,gmaps_link
 6,,,"C.H.U. De Saint-Denis, La Réunion",https://g.co/kgs/YharqEk
+3,47.4829509,-0.5565851,C.H.U. d'Angers,https://g.co/kgs/NUzpcF2
+2,47.4450282,-0.6215025,"Clinique de l'Anjou, Angers",https://g.co/kgs/2HSMwhe
+1,48.7567609,2.2997271,"Hopital Prive d'Antony, Ramsay Santé",https://g.co/kgs/zjBGZ32
+4,48.8661446,2.4019317,"Hopital Tenon, Paris 20e",https://g.co/kgs/hWAZDqw
+5,48.0152963,0.1747897,"Centre Hospitalier, Le Mans",https://g.co/kgs/sbsnaCY
